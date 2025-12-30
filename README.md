@@ -7,7 +7,7 @@ composer require eclipsio/number-humanoid
 ```
 
 ## Example Human Readable String
-```
+```php
 <?php
 
 use Eclipsio\NumberHumanoid\Humanoid;
